@@ -1,0 +1,4 @@
+node_modules/
+*.log
+src/assets/@raw/*/
+dist/

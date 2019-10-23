@@ -1,0 +1,1 @@
+Based on https://github.com/ampled/phaser3-typescript-webpack
